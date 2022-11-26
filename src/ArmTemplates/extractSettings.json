@@ -1,0 +1,8 @@
+{
+    "sourceApimName": "ennlightapi",
+    "destinationApimName": "ennlightapi",
+    "resourceGroup": "devsecops-sg",
+    "fileFolder": "/home/ubuntu/environment/api/ennlightapi.scm.azure-api.net/api-management/",
+    "linkedTemplatesBaseUrl": "",
+    "policyXMLBaseUrl": ""
+}
